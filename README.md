@@ -28,7 +28,7 @@
 My goal is to advance to a Senior Python Developer role as soon as possible. I am not afraid to take on complex tasks
 and always strive to find the best solutions in terms of both code performance and readability.
 
-- 💬 Ask me about anything [here](https://github.com/Injirez/Injirez/issues)
+- 💬 Ask me about anything [here](https://github.com/injirez/injirez/issues)
 
 </details>
 
